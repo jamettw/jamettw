@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamettw&show_icons=true&locale=en" alt="jamettw" />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamettw&show_icons=true&locale=en&layout=compact" alt="jamettw" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamettw&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="jamettw" />
